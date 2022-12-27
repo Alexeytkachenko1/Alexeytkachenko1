@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexeytkachenko1
-- 👀 I’m interested in Frintend
+- 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JS
-- 🧑‍💻 I'm looking to perspective job where i can improve my skills in friendly community
+- 🧑‍💻 I'm looking to perspective job where I can improve my skills in friendly community
 - 📫 How to reach me ? get in touch with me: alexeytkachenko1@gmail.com
 
 <!---
